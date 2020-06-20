@@ -1,0 +1,32 @@
+//swiper
+
+@import "../../../node_modules/swiper/swiper.scss";
+@import "../../../node_modules/swiper/components/navigation/navigation.scss";
+@import "../../../node_modules/swiper/components/pagination/pagination.scss";
+
+//jquery-nice-select
+@import "../../../node_modules/jquery-nice-select/scss/nice-select.scss";
+
+// Slick
+@import "../../../node_modules/slick-carousel/slick/slick.scss";
+
+@import "../../../node_modules/magnific-popup/dist/magnific-popup.css";
+
+// @fortawesome
+@import "../../../node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss";
+
+// Variables/Mixins
+@import "fonts";
+@import "variables";
+@import "mixins";
+
+// fancybox
+@import "fancybox";
+
+// Typical styles
+@import "reset";
+@import "typical";
+
+// Main styles
+@import "my";
+@import "media-fonts";

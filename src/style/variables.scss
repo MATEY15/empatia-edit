@@ -1,0 +1,83 @@
+// Variables
+//
+//
+// 1. A map of colors.
+// 2. Base body/grid parameters
+// 3. Base forms parameters
+// 4. A map of breakpoints.
+//
+//___________________________________
+
+
+
+// 1. A map of colors.
+
+$white:           #ffffff;
+
+$gray:            #c4c7c9;
+$gray-green:      #c5c6ba;
+$gray-beige:      #d9cbb9;
+$purple:          #57336d;
+$green:           #476e3e;
+$orange:          #f68930;
+$blue:            #365eb0;
+$red:             #d3513e;
+$yellow:          #e1ab29;
+$black:           #000000;
+
+
+// 2. Base body/grid parameters
+
+$base-font:             'Mont', sans-serif;
+$base-color:            $black;
+$contrast-color:        $white;
+$base-bg:               $white;
+$contrast-bg:           $black;
+$font-size:             20px;
+$font-size-lg:          32px;
+$font-size-xs:          11px;
+
+
+$body-min-width:        320px;
+// actual + gutter
+$container-max-widths:  100%;
+
+// left + right
+$gutter-width:                    160px;
+// left + right (responsive)
+$gutter-width-responsive:         50px;
+
+
+$transition:  all .3s ease .05s;
+
+
+// 3. Base forms parameters
+
+$btn-height:                  50px;
+$btn-height-xs:               40px;
+$btn-line:                    48px;
+$btn-line-xs:                 38px;
+$btn-border:                  1px solid;
+$btn-radius:                  0;
+//side
+$btn-padding:                 20px;
+$btn-padding-xs:              12px;
+$placeholder-color:           rgba(0, 0, 0, 0.3);
+$placeholder-hover-color:     rgba(0, 0, 0, 1);
+
+
+// 4. A map of breakpoints.
+
+$breakpoints: (
+        xs: 375px,
+        sx: 640px,
+        sm: 735px,
+        md: 1024px,
+        lg: 1170px,
+        lx: 1350px,
+        xl: 1680px,
+        xxl: 1920px,
+
+        box768: 768px,
+        box960: 960px
+);
