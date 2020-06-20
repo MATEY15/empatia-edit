@@ -16,11 +16,5 @@
 // Импортируем другие Slick
 //= ../../../node_modules/magnific-popup/dist/jquery.magnific-popup.js
 
-// jquery-nice-select
-//= ../../../node_modules/air-datepicker/dist/js/datepicker.js
-
-// jquery.maskedinput
-//= ../../../node_modules/jquery.maskedinput/src/jquery.maskedinput.js
-
 // Импортируем другие js-файлы
 //= scripts.js
