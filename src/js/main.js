@@ -10,11 +10,11 @@
 // jquery-nice-select
 //= ../../../node_modules/jquery-nice-select/js/jquery.nice-select.js
 
-// jquery-nice-select
-//= ../../../node_modules/air-datepicker/dist/js/datepicker.js
+// Импортируем другие Slick
+//= ../../../node_modules/slick-carousel/slick/slick.min.js
 
-// jquery.maskedinput
-//= ../../../node_modules/jquery.maskedinput/src/jquery.maskedinput.js
+// Импортируем другие Slick
+//= ../../../node_modules/magnific-popup/dist/jquery.magnific-popup.js
 
 // Импортируем другие js-файлы
 //= scripts.js
